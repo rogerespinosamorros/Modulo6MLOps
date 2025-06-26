@@ -1,3 +1,4 @@
 mlruns/
 mlartifacts/
+data/
 # Ignore Python cache files
